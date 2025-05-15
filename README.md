@@ -10,12 +10,12 @@
    ```python
     pip install pandas openpyxl schedule
    ```
-3. 双击运行脚本 `start_email_sender.py`，同层目录会生成文件夹，里面为日志等文件。![2.png](https://blog.zuke.chat/upload/2.png)
-4. 填写相关参数![1.png](https://blog.zuke.chat/upload/1.png)
+3. 双击运行脚本 `start_email_sender.py`，同层目录会生成文件夹，里面为日志等文件。![2.png](./img/2.png)
+4. 填写相关参数![1.png](./img/1.png)
 5. excel文件格式说明：
 
-   1. 发件人表：![3.png](https://blog.zuke.chat/upload/3.png)
-   2. 收件人表：![4.png](https://blog.zuke.chat/upload/4.png)
+   1. 发件人表：![3.png](./img/3.png)
+   2. 收件人表：![4.png](./img/4.png)
 6. 避免被163邮箱拦截的建议
 
    - 减小批量发送规模：每批尝试控制在5封以内
@@ -27,4 +27,4 @@
 8. 163邮箱获取SMTP密钥地址：[https://mail.163.com](https://mail.163.com/)
 3. **推广：[企业级AI大模型中转站](https://zuke.chat/) ，全球主流大模型稳定低价高并发，感谢老板支持！**
 
-    ![5.png](https://blog.zuke.chat/upload/5.png)
+    ![5.png](./img/5.png)
